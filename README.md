@@ -36,6 +36,7 @@ The full code is available in `RadarSystem.ino`.
 ## 📷 Preview
 ### Schematic View
 ![image](https://github.com/user-attachments/assets/13d37896-b366-4d6e-93b4-d45bf64c3a5e)
+
 ### Circuit View
 ![image](https://github.com/user-attachments/assets/3ca1ab05-9a50-4e9e-a08c-3752319dd302)
 
