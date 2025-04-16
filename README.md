@@ -31,7 +31,7 @@ An Arduino Uno-based radar system using an ultrasonic sensor and servo motor to 
 
 ## 💻 Code
 
-The full code is available in `RadarSystem.ino`.
+The full code is available in [RadarSystem.ino](RadarSystem.ino).
 
 ## 📷 Preview
 ### Schematic View
