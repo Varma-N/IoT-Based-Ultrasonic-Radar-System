@@ -43,4 +43,4 @@ The full code is available in `RadarSystem.ino`.
 
 ## 📄 License
 
-MIT License
+This project is licensed under the [MIT License](LICENSE).
